@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319873286857",
+    "firebase_url": "https://weather-app-a2c54.firebaseio.com",
+    "project_id": "weather-app-a2c54",
+    "storage_bucket": "weather-app-a2c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319873286857:android:5c0a15ee98fc9b7e65c318",
+        "android_client_info": {
+          "package_name": "marco.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319873286857-akmnu3eqn5dgcfh2bkbpqhs1o199ao5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yjGEVWCu9GZA2E5tsPYhAfD2jikaFgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319873286857-akmnu3eqn5dgcfh2bkbpqhs1o199ao5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
